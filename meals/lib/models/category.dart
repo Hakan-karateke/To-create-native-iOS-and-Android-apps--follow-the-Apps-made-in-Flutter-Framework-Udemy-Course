@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Category{
-
+class Category {
   const Category({
     required this.id,
     required this.title,
